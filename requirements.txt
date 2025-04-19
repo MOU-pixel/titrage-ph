@@ -3,3 +3,4 @@ voila
 pandas
 numpy
 matplotlib
+openpyxl
