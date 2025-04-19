@@ -1,0 +1,5 @@
+ipywidgets>=8.0.4
+voila
+pandas
+numpy
+matplotlib
